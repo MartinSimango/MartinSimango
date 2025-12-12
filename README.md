@@ -1,5 +1,5 @@
-<details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+<details open> 
+  <summary>📊 Stats and Activity</summary>
 
 <div align="center">
 <h3>🔥 Streak Stats</h3>
